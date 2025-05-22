@@ -12,7 +12,7 @@ Todos estudiantes activos de la Universidad De Costa Rica.
 En el primer archivo se cargó un conjunto de datos en formato .CSV, llamado "dataset.csv".
 Además, se mostraron resúmenes, dimensiones y se calcularon medias utilizando el dataset.
 
-En el segundo se crearon dos funciones, la primera saca la desviación estandar de un vector
+En el segundo se crearon dos funciones. La primera saca la desviación estandar de un vector
 numérico. Y, la segunda, toma un data frame e imprime el nombre de las columnas que contienen NA en sus filas.
 
 En el tercer archivo, se utilizaron funciones iterativas base de R. Además, se guardaron
